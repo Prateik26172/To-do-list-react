@@ -7,7 +7,7 @@ function Mynav() {
     <div className="Logo border shadow-sm">
       <img
         className=" pl-5 w-[155px] flex"
-        src="pmsquare.png"
+        src="pmlogo/pmsquare.png"
         alt="image"
       ></img>
     </div>
